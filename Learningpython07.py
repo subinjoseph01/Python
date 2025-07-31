@@ -13,5 +13,5 @@ elif speed :
     print("invalid speed")
     
     
-#     Here we have printed if  elif
+#     Here we have printed if  elif else
 # else if is denoted as elif in python 
