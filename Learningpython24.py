@@ -1,27 +1,27 @@
                                             #  Function basic 
-# def house():
-#     print("joolpa")
+def house():
+    print("joolpa")
     
     
                                                 # User input 
-# def yolo():
-#     yolo = input("Enter a value: ")
-#     house()
-#     print(f"what did you say mate {yolo}")
+def yolo():
+    yolo = input("Enter a value: ")
+    house()
+    print(f"what did you say mate {yolo}")
     
-# yolo()
+yolo()
 
 
 
 #                                             Function with parameters
 
 
-# def school_students(principal , master):
+def school_students(principal , master):
     
-#     print(f"school people incharge names are {principal} and {master} ")
+    print(f"school people incharge names are {principal} and {master} ")
     
     
-# school_students ("jothika", "rani")
+school_students ("jothika", "rani")
 
 
                                                 #    Return function
@@ -29,27 +29,27 @@
                                                 
     #   This how division works in function  
     #   because in normal way we cannot do division in function beacause it create error and stop the other codes                                        
-# def add (a,b):
+def add (a,b):
    
-#     if b==0:
-#         print('u cannot divide a number by 0')
-#     else:
-#         return a/b
+    if b==0:
+        print('u cannot divide a number by 0')
+    else:
+        return a/b
 
-# values = add(5,0)
-# print(values)
+values = add(5,0)
+print(values)
 
 
                                    # addition  , multi , substract 
 
 
-# def add (a,b):
+def add (a,b):
     
-#     return (a+b)
+    return (a+b)
 
-# result = add(2 ,2)
+result = add(2 ,2)
 
-# print(result)
+print(result)
 
 
                                    # function with default parameter
