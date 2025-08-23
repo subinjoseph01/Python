@@ -17,5 +17,5 @@ except NameError as h:
         print("The error is ",h)     # name error
     
 except Exception as e:
-        print("The error is ",e)     #
+        print("The error is ",e)     #The normal error cather 
         
